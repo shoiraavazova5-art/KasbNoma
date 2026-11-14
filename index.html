@@ -1,0 +1,192 @@
+
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#087f83">
+<title>KASBNOMA — Kasbingni kashf et!</title>
+<style>
+:root {
+  --teal:#087f83;
+  --dark:#075b60;
+  --gold:#d8ad50;
+  --bg:#f3f8f7;
+  --white:#ffffff;
+}
+* {box-sizing:border-box}
+body {
+  margin:0;
+  font-family:Arial,sans-serif;
+  background:var(--bg);
+  color:#173b3c;
+}
+header {
+  background:linear-gradient(135deg,var(--dark),var(--teal));
+  color:white;
+  padding:25px 20px 30px;
+  border-radius:0 0 25px 25px;
+}
+.brand {
+  font-size:27px;
+  font-weight:800;
+  letter-spacing:2px;
+}
+.brand span {color:#f4cf78}
+header p {margin-bottom:0;color:#e3f5f1}
+main {padding:20px;max-width:650px;margin:auto}
+.welcome {
+  background:white;
+  border-radius:18px;
+  padding:20px;
+  margin-top:18px;
+  box-shadow:0 4px 18px #12333310;
+}
+.welcome h2 {margin-top:0;color:var(--dark)}
+.section-title {margin:25px 0 13px}
+.grid {
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:12px;
+}
+.item {
+  background:white;
+  border:1px solid #e0ece9;
+  border-radius:16px;
+  padding:17px 12px;
+  text-align:left;
+  cursor:pointer;
+  color:#173b3c;
+  font-size:15px;
+  min-height:115px;
+}
+.item:active {transform:scale(.97)}
+.emoji {font-size:27px;display:block;margin-bottom:10px}
+.item strong {display:block;margin-bottom:5px}
+.item small {color:#718786}
+.panel {
+  display:none;
+  background:white;
+  border-radius:18px;
+  padding:20px;
+  margin-top:18px;
+}
+.panel h2 {color:var(--dark)}
+.back {
+  background:var(--teal);
+  color:white;
+  border:0;
+  padding:11px 18px;
+  border-radius:10px;
+  cursor:pointer;
+}
+footer {
+  text-align:center;
+  padding:25px;
+  color:#718786;
+  font-size:13px;
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">KASB<span>NOMA</span></div>
+  <p>Kelajagingni bugundan kashf et!</p>
+</header>
+
+<main>
+  <div id="home">
+    <section class="welcome">
+      <h2>Assalomu alaykum! 👋</h2>
+      <p>O‘z qiziqishingni kashf et, qobiliyatingni anglab yet va kelajak kasbingni tanla!</p>
+    </section>
+
+    <h3 class="section-title">O‘rganish va kashf qilish</h3>
+    <div class="grid">
+      <button class="item" onclick="openPage('test')">
+        <span class="emoji">🧠</span>
+        <strong>Kasb testi</strong>
+        <small>Qiziqishlaringni aniqlash</small>
+      </button>
+      <button class="item" onclick="openPage('jobs')">
+        <span class="emoji">📚</span>
+        <strong>Kasblar olami</strong>
+        <small>Turli kasblarni o‘rganish</small>
+      </button>
+      <button class="item" onclick="openPage('study')">
+        <span class="emoji">🎓</span>
+        <strong>Ta’lim yo‘llari</strong>
+        <small>Qayerda tahsil olish mumkin?</small>
+      </button>
+      <button class="item" onclick="openPage('skills')">
+        <span class="emoji">🛠️</span>
+        <strong>Amaliy ko‘nikmalar</strong>
+        <small>Yangi mahoratlarni o‘rganish</small>
+      </button>
+      <button class="item" onclick="openPage('portfolio')">
+        <span class="emoji">🏆</span>
+        <strong>Mening portfoliom</strong>
+        <small>Yutuq va maqsadlarim</small>
+      </button>
+      <button class="item" onclick="openPage('map')">
+        <span class="emoji">🗺️</span>
+        <strong>Kasb xaritasi</strong>
+        <small>O‘zbekistondagi imkoniyatlar</small>
+      </button>
+    </div>
+  </div>
+
+  <section class="panel" id="page">
+    <button class="back" onclick="goHome()">← Bosh sahifa</button>
+    <div id="pageContent"></div>
+  </section>
+</main>
+
+<footer>
+  KASBNOMA © 2026<br>
+  Bilim — kelajak sari yo‘l!
+</footer>
+
+<script>
+const pages = {
+  test: {
+    title:"🧠 Kasbga qiziqish testi",
+    text:"Bu bo‘limda qiziqishlaringizni aniqlash uchun savollarga javob berasiz. Test tavsiyalari yo‘nalish tanlashga yordam beradi."
+  },
+  jobs: {
+    title:"📚 Kasblar olami",
+    text:"Shifokor, muhandis, o‘qituvchi, dasturchi, dizayner va boshqa kasblar haqida ma’lumotlar shu yerda joylashadi."
+  },
+  study: {
+    title:"🎓 Ta’lim yo‘llari",
+    text:"Maktabdan keyingi ta’lim, kasb-hunar maktablari, texnikumlar va oliy ta’lim yo‘nalishlari."
+  },
+  skills: {
+    title:"🛠️ Amaliy ko‘nikmalar",
+    text:"Muloqot, ijodkorlik, muammolarni hal qilish, raqamli savodxonlik va boshqa ko‘nikmalar."
+  },
+  portfolio: {
+    title:"🏆 Mening portfoliom",
+    text:"Bu bo‘limda kelajakdagi maqsadlaringiz, loyihalaringiz va yutuqlaringizni jamlaysiz."
+  },
+  map: {
+    title:"🗺️ Kasb xaritasi",
+    text:"O‘zbekiston hududlaridagi ta’lim va kasbiy imkoniyatlar haqida ma’lumotlar."
+  }
+};
+
+function openPage(id) {
+  document.getElementById("home").style.display="none";
+  document.getElementById("page").style.display="block";
+  document.getElementById("pageContent").innerHTML =
+    "<h2>"+pages[id].title+"</h2><p>"+pages[id].text+"</p>";
+  window.scrollTo(0,0);
+}
+function goHome() {
+  document.getElementById("page").style.display="none";
+  document.getElementById("home").style.display="block";
+  window.scrollTo(0,0);
+}
+</script>
+</body>
+</html>
