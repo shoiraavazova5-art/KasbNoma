@@ -1,0 +1,865 @@
+{
+ "age": "1-4 sinflar",
+ "parts": [
+  {
+   "title": "Qiziqishlarim",
+   "qs": [
+    {
+     "q": "Bo‘sh vaqtingda nima qilishni yoqtirasan?",
+     "a": [
+      {
+       "t": "O‘yin uchun qoidalar o‘ylab, hammani yig‘ish",
+       "d": "organize"
+      },
+      {
+       "t": "“Nega?” deb o‘ylab, sinab ko‘rish",
+       "d": "science"
+      },
+      {
+       "t": "Do‘stlar bilan suhbatlashish",
+       "d": "people"
+      },
+      {
+       "t": "Hovlida qush va hayvonlarni kuzatish",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi kitobni o‘qish qiziqarli?",
+     "a": [
+      {
+       "t": "Odamlar va ularning hayoti haqida",
+       "d": "people"
+      },
+      {
+       "t": "Kosmos va sirli kashfiyotlar haqida",
+       "d": "science"
+      },
+      {
+       "t": "Sehrli ertak va she’rlar",
+       "d": "creative"
+      },
+      {
+       "t": "Mashinalar va robotlar haqida",
+       "d": "tech"
+      }
+     ]
+    },
+    {
+     "q": "Maktabda qaysi mashg‘ulot senga yoqadi?",
+     "a": [
+      {
+       "t": "Tajriba va kuzatish",
+       "d": "science"
+      },
+      {
+       "t": "Kompyuter yoki konstruktor",
+       "d": "tech"
+      },
+      {
+       "t": "Tabiat darsi",
+       "d": "nature"
+      },
+      {
+       "t": "Rasm va musiqa",
+       "d": "creative"
+      }
+     ]
+    },
+    {
+     "q": "Sayohatda nima qilishni xohlaysan?",
+     "a": [
+      {
+       "t": "Tog‘ va daryolarni ko‘rish",
+       "d": "nature"
+      },
+      {
+       "t": "Yangi do‘stlar topish",
+       "d": "people"
+      },
+      {
+       "t": "Chiroyli joylarni chizish",
+       "d": "creative"
+      },
+      {
+       "t": "Muzeyda qiziq narsalarni o‘rganish",
+       "d": "science"
+      }
+     ]
+    },
+    {
+     "q": "Bayramda qaysi ishni bajarishni xohlaysan?",
+     "a": [
+      {
+       "t": "Zalni bezash",
+       "d": "creative"
+      },
+      {
+       "t": "Gul va ko‘chat tayyorlash",
+       "d": "nature"
+      },
+      {
+       "t": "Dastur tuzib, ishlarni taqsimlash",
+       "d": "organize"
+      },
+      {
+       "t": "Mehmonlarni kutib olish",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Sinfda bayram bo‘lsa, nima qilasan?",
+     "a": [
+      {
+       "t": "Sahna bezagini chizaman",
+       "d": "creative"
+      },
+      {
+       "t": "Musiqa qurilmasini sozlayman",
+       "d": "tech"
+      },
+      {
+       "t": "Kim nima qilishini rejalayman",
+       "d": "organize"
+      },
+      {
+       "t": "Hammani xursand qilaman",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi o‘yinni yoqtirasan?",
+     "a": [
+      {
+       "t": "Topishmoq va boshqotirma",
+       "d": "science"
+      },
+      {
+       "t": "Jamoa bo‘lib o‘ynaladigan o‘yin",
+       "d": "people"
+      },
+      {
+       "t": "Konstruktor yig‘ish",
+       "d": "tech"
+      },
+      {
+       "t": "Rasm chizish o‘yini",
+       "d": "creative"
+      }
+     ]
+    },
+    {
+     "q": "Uyda qaysi ishni qilish senga zavq beradi?",
+     "a": [
+      {
+       "t": "Buzilgan o‘yinchoqni tuzatish",
+       "d": "tech"
+      },
+      {
+       "t": "Muz qanday erishini kuzatish",
+       "d": "science"
+      },
+      {
+       "t": "Xonadagi narsalarni tartibga solish",
+       "d": "organize"
+      },
+      {
+       "t": "Gullarga suv quyish",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Televizorda nimani ko‘rishni yoqtirasan?",
+     "a": [
+      {
+       "t": "Hayvonlar haqidagi ko‘rsatuv",
+       "d": "nature"
+      },
+      {
+       "t": "Odamlarga yordam beradigan qahramon haqida",
+       "d": "people"
+      },
+      {
+       "t": "Ixtirochilar va texnika haqida",
+       "d": "tech"
+      },
+      {
+       "t": "Jamoani boshqaradigan sardor haqida",
+       "d": "organize"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi savolga javob topging keladi?",
+     "a": [
+      {
+       "t": "Yulduzlar nega yonadi?",
+       "d": "science"
+      },
+      {
+       "t": "Mashina qanday yuradi?",
+       "d": "tech"
+      },
+      {
+       "t": "Katta tadbir qanday tashkil qilinadi?",
+       "d": "organize"
+      },
+      {
+       "t": "Daraxt urug‘dan qanday o‘sadi?",
+       "d": "nature"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Kuchli tomonlarim",
+   "qs": [
+    {
+     "q": "Qaysi ishni oson va zavq bilan bajarasan?",
+     "a": [
+      {
+       "t": "Chiroyli rasm chizish",
+       "d": "creative"
+      },
+      {
+       "t": "O‘simlik va hayvonlarga qarash",
+       "d": "nature"
+      },
+      {
+       "t": "Ishlarni navbat bilan tartibga solish",
+       "d": "organize"
+      },
+      {
+       "t": "Narsalar orasidagi farqni topish",
+       "d": "science"
+      }
+     ]
+    },
+    {
+     "q": "Do‘sting nimani yaxshi bilishingni aytadi?",
+     "a": [
+      {
+       "t": "Yaxshi tinglashingni",
+       "d": "people"
+      },
+      {
+       "t": "Narsalarni tuzatishingni",
+       "d": "tech"
+      },
+      {
+       "t": "Ko‘p savol berishingni",
+       "d": "science"
+      },
+      {
+       "t": "Chiroyli chizishingni",
+       "d": "creative"
+      }
+     ]
+    },
+    {
+     "q": "Guruhda ishlaganda sen kimsan?",
+     "a": [
+      {
+       "t": "G‘oya topuvchi",
+       "d": "creative"
+      },
+      {
+       "t": "Ishlarni bo‘lib beruvchi",
+       "d": "organize"
+      },
+      {
+       "t": "Hammani yarashtiruvchi",
+       "d": "people"
+      },
+      {
+       "t": "“Nima uchun?” deb so‘rovchi",
+       "d": "science"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi topshiriqni yaxshi bajarasan?",
+     "a": [
+      {
+       "t": "Gul va ko‘chatni parvarish qilish",
+       "d": "nature"
+      },
+      {
+       "t": "Detallardan narsa yig‘ish",
+       "d": "tech"
+      },
+      {
+       "t": "Kichik bolalarga yordam berish",
+       "d": "people"
+      },
+      {
+       "t": "Kuzatib, natijani yozib borish",
+       "d": "science"
+      }
+     ]
+    },
+    {
+     "q": "Maktabda qaysi vazifa senga yengil?",
+     "a": [
+      {
+       "t": "Sxema bo‘yicha qurish",
+       "d": "tech"
+      },
+      {
+       "t": "Plakat chizish",
+       "d": "creative"
+      },
+      {
+       "t": "Mantiqiy topshiriq yechish",
+       "d": "science"
+      },
+      {
+       "t": "Do‘stga tushuntirib berish",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Nimani tez eslab qolasan?",
+     "a": [
+      {
+       "t": "Qiziq faktlarni",
+       "d": "science"
+      },
+      {
+       "t": "Qurilma qanday ishlashini",
+       "d": "tech"
+      },
+      {
+       "t": "Kim nima qilishi kerakligini",
+       "d": "organize"
+      },
+      {
+       "t": "Hayvon va o‘simlik nomlarini",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Tadbirda qaysi vazifani olasan?",
+     "a": [
+      {
+       "t": "Mehmonlar bilan gaplashish",
+       "d": "people"
+      },
+      {
+       "t": "Bezak tayyorlash",
+       "d": "creative"
+      },
+      {
+       "t": "Ro‘yxat tuzib, tartib saqlash",
+       "d": "organize"
+      },
+      {
+       "t": "Ovoz va chiroqni sozlash",
+       "d": "tech"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi ishda sabrli bo‘lasan?",
+     "a": [
+      {
+       "t": "Urug‘ning o‘sishini kutishda",
+       "d": "nature"
+      },
+      {
+       "t": "Rejani oxirigacha bajarishda",
+       "d": "organize"
+      },
+      {
+       "t": "Boshqani tinglashda",
+       "d": "people"
+      },
+      {
+       "t": "Rasmni chiroyli tugatishda",
+       "d": "creative"
+      }
+     ]
+    },
+    {
+     "q": "O‘zingni qaysi ishda ishonchli his qilasan?",
+     "a": [
+      {
+       "t": "Yangi narsa o‘ylab topishda",
+       "d": "creative"
+      },
+      {
+       "t": "Jamoani boshqarishda",
+       "d": "organize"
+      },
+      {
+       "t": "Mexanizm yasashda",
+       "d": "tech"
+      },
+      {
+       "t": "Hayvonlarni boqishda",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi mahorating bilan faxrlanasan?",
+     "a": [
+      {
+       "t": "Konstruktorni tez yig‘ishim bilan",
+       "d": "tech"
+      },
+      {
+       "t": "Topishmoqlarni yechishim bilan",
+       "d": "science"
+      },
+      {
+       "t": "Tartibli bo‘lishim bilan",
+       "d": "organize"
+      },
+      {
+       "t": "Gul o‘stirishim bilan",
+       "d": "nature"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Ishlash uslubim",
+   "qs": [
+    {
+     "q": "Yangi vazifa berilsa, nimadan boshlaysan?",
+     "a": [
+      {
+       "t": "Avval savol berib, o‘rganaman",
+       "d": "science"
+      },
+      {
+       "t": "Kerakli asboblarni yig‘aman",
+       "d": "tech"
+      },
+      {
+       "t": "Ishlarni ketma-ket yozib chiqaman",
+       "d": "organize"
+      },
+      {
+       "t": "Tashqarida, toza havoda o‘ylab ko‘raman",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi usulda ishlash senga yoqadi?",
+     "a": [
+      {
+       "t": "Do‘stlar bilan birga",
+       "d": "people"
+      },
+      {
+       "t": "O‘z fikrimcha, erkin",
+       "d": "creative"
+      },
+      {
+       "t": "Sinab ko‘rib, natijasini kuzatib",
+       "d": "science"
+      },
+      {
+       "t": "Qadam-baqadam yig‘ib",
+       "d": "tech"
+      }
+     ]
+    },
+    {
+     "q": "Qayerda ishlash senga qulay?",
+     "a": [
+      {
+       "t": "Odamlar ko‘p joyda",
+       "d": "people"
+      },
+      {
+       "t": "Tinch xonada, tajriba stolida",
+       "d": "science"
+      },
+      {
+       "t": "Reja-jadval osilgan joyda",
+       "d": "organize"
+      },
+      {
+       "t": "Bog‘da",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Qiyin masala chiqsa, nima qilasan?",
+     "a": [
+      {
+       "t": "Boshqa usulda yig‘ib ko‘raman",
+       "d": "tech"
+      },
+      {
+       "t": "Qismlarga bo‘lib chiqaman",
+       "d": "organize"
+      },
+      {
+       "t": "Sababini qidiraman",
+       "d": "science"
+      },
+      {
+       "t": "Sayr qilib, o‘ylab olaman",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Do‘st bilan loyiha qilsak, men…",
+     "a": [
+      {
+       "t": "Uning fikrini tinglayman",
+       "d": "people"
+      },
+      {
+       "t": "Yangi g‘oya taklif qilaman",
+       "d": "creative"
+      },
+      {
+       "t": "Vazifalarni taqsimlayman",
+       "d": "organize"
+      },
+      {
+       "t": "Hovlida ishlashni tanlayman",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi ishni yolg‘iz bajarishni yoqtirasan?",
+     "a": [
+      {
+       "t": "Qurilma yasash",
+       "d": "tech"
+      },
+      {
+       "t": "Kichik bolaga ertak o‘qib berish",
+       "d": "people"
+      },
+      {
+       "t": "Rasmli kitobcha tayyorlash",
+       "d": "creative"
+      },
+      {
+       "t": "Kuzatuv daftarini yuritish",
+       "d": "science"
+      }
+     ]
+    },
+    {
+     "q": "Tanaffusda nima qilishni afzal ko‘rasan?",
+     "a": [
+      {
+       "t": "Qiziq savol ustida bahslashish",
+       "d": "science"
+      },
+      {
+       "t": "Do‘stlar bilan o‘ynash",
+       "d": "people"
+      },
+      {
+       "t": "Chizish yoki kuylash",
+       "d": "creative"
+      },
+      {
+       "t": "Hovlida qushlarni kuzatish",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Katta ishni qanday bajarasan?",
+     "a": [
+      {
+       "t": "Rejasini tuzib, bosqichlarga bo‘laman",
+       "d": "organize"
+      },
+      {
+       "t": "Avval namunasini yasab ko‘raman",
+       "d": "tech"
+      },
+      {
+       "t": "Chiroyli ko‘rinishini o‘ylayman",
+       "d": "creative"
+      },
+      {
+       "t": "Ma’lumot yig‘ib, taqqoslayman",
+       "d": "science"
+      }
+     ]
+    },
+    {
+     "q": "Maktab hovlisida tadbir bo‘lsa…",
+     "a": [
+      {
+       "t": "Sahna chizmasini tayyorlayman",
+       "d": "creative"
+      },
+      {
+       "t": "Mehmonlarga yo‘l ko‘rsataman",
+       "d": "people"
+      },
+      {
+       "t": "Gul va ko‘chatlarni joylashtiraman",
+       "d": "nature"
+      },
+      {
+       "t": "Hamma ishlar o‘z vaqtida bo‘lishini kuzataman",
+       "d": "organize"
+      }
+     ]
+    },
+    {
+     "q": "Ishing tugasa, nimadan xursand bo‘lasan?",
+     "a": [
+      {
+       "t": "Chiroyli chiqqanidan",
+       "d": "creative"
+      },
+      {
+       "t": "Qurilma ishlay boshlaganidan",
+       "d": "tech"
+      },
+      {
+       "t": "Kimgadir foydasi tekkanidan",
+       "d": "people"
+      },
+      {
+       "t": "Ko‘chat o‘sib chiqqanidan",
+       "d": "nature"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Qadriyatlarim va orzularim",
+   "qs": [
+    {
+     "q": "Kelajakda qanday ish qilishni xohlaysan?",
+     "a": [
+      {
+       "t": "Odamlarga yordam beradigan",
+       "d": "people"
+      },
+      {
+       "t": "Tabiat va hayvonlar bilan bog‘liq",
+       "d": "nature"
+      },
+      {
+       "t": "Qurilmalar yasaydigan",
+       "d": "tech"
+      },
+      {
+       "t": "Jamoani boshqaradigan",
+       "d": "organize"
+      }
+     ]
+    },
+    {
+     "q": "Senga qaysi narsa muhim?",
+     "a": [
+      {
+       "t": "Chiroyli narsa yaratish",
+       "d": "creative"
+      },
+      {
+       "t": "Yangi narsani bilib olish",
+       "d": "science"
+      },
+      {
+       "t": "Ishlaydigan narsa yasash",
+       "d": "tech"
+      },
+      {
+       "t": "Do‘stlar va oila",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi orzuni amalga oshirmoqchisan?",
+     "a": [
+      {
+       "t": "Yangi narsani kashf qilish",
+       "d": "science"
+      },
+      {
+       "t": "O‘z kitobingni yozish",
+       "d": "creative"
+      },
+      {
+       "t": "Katta bog‘ yaratish",
+       "d": "nature"
+      },
+      {
+       "t": "Ko‘p odamga yordam berish",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Dunyoni qanday yaxshilamoqchisan?",
+     "a": [
+      {
+       "t": "Kasalliklarga davo topib",
+       "d": "science"
+      },
+      {
+       "t": "Chiroyli asarlar yaratib",
+       "d": "creative"
+      },
+      {
+       "t": "Daraxt ekib, tabiatni asrab",
+       "d": "nature"
+      },
+      {
+       "t": "Foydali qurilma yasab",
+       "d": "tech"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi katta loyihani tanlarding?",
+     "a": [
+      {
+       "t": "Bolalar uchun rasm ko‘rgazmasi",
+       "d": "creative"
+      },
+      {
+       "t": "Mahalla bog‘i",
+       "d": "nature"
+      },
+      {
+       "t": "Maktab bayrami rejasi",
+       "d": "organize"
+      },
+      {
+       "t": "Aqlli robot",
+       "d": "tech"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi kitobni sovg‘a qilsalar xursand bo‘lasan?",
+     "a": [
+      {
+       "t": "Ilm va kashfiyotlar haqida",
+       "d": "science"
+      },
+      {
+       "t": "Katta ishlarni uddalagan insonlar haqida",
+       "d": "organize"
+      },
+      {
+       "t": "Mehribon odamlar haqida",
+       "d": "people"
+      },
+      {
+       "t": "Ixtirolar haqida",
+       "d": "tech"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi ishdan faxrlanasan?",
+     "a": [
+      {
+       "t": "Jamoani yo‘lga solganingdan",
+       "d": "organize"
+      },
+      {
+       "t": "Daraxt o‘stirganingdan",
+       "d": "nature"
+      },
+      {
+       "t": "Rasming ko‘rgazmaga qo‘yilganidan",
+       "d": "creative"
+      },
+      {
+       "t": "Do‘stga yordam berganingdan",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Katta bo‘lib qayerda ishlashni xohlaysan?",
+     "a": [
+      {
+       "t": "O‘z korxonamda",
+       "d": "organize"
+      },
+      {
+       "t": "Ijod ustaxonasida",
+       "d": "creative"
+      },
+      {
+       "t": "Ilmiy laboratoriyada",
+       "d": "science"
+      },
+      {
+       "t": "Texnika markazida",
+       "d": "tech"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi fazilat senga yoqadi?",
+     "a": [
+      {
+       "t": "Ijodkorlik",
+       "d": "creative"
+      },
+      {
+       "t": "Tabiatga mehr",
+       "d": "nature"
+      },
+      {
+       "t": "Mehribonlik",
+       "d": "people"
+      },
+      {
+       "t": "Mas’uliyat va tartib",
+       "d": "organize"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi narsa seni ilhomlantiradi?",
+     "a": [
+      {
+       "t": "Tog‘lar va o‘rmonlar",
+       "d": "nature"
+      },
+      {
+       "t": "Katta jamoaning muvaffaqiyati",
+       "d": "organize"
+      },
+      {
+       "t": "Odamlarning minnatdorchiligi",
+       "d": "people"
+      },
+      {
+       "t": "Yangi ixtirolar",
+       "d": "tech"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
