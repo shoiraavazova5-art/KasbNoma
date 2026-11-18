@@ -1,0 +1,865 @@
+{
+ "age": "9-11 sinflar",
+ "parts": [
+  {
+   "title": "Qiziqishlarim",
+   "qs": [
+    {
+     "q": "Internetda eng ko‘p nimani qidirasan?",
+     "a": [
+      {
+       "t": "Yangi texnologiya va gadjetlarni",
+       "d": "tech"
+      },
+      {
+       "t": "Ilmiy kashfiyot va tadqiqotlarni",
+       "d": "science"
+      },
+      {
+       "t": "Tabiat, hayvonlar va ekologiya yangiliklarini",
+       "d": "nature"
+      },
+      {
+       "t": "Biznes va muvaffaqiyat hikoyalarini",
+       "d": "organize"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi fanni chuqurroq o‘rganishni xohlaysan?",
+     "a": [
+      {
+       "t": "Informatika va dasturlash",
+       "d": "tech"
+      },
+      {
+       "t": "Biologiya va kimyo",
+       "d": "science"
+      },
+      {
+       "t": "Psixologiya va ijtimoiy fanlar",
+       "d": "people"
+      },
+      {
+       "t": "Iqtisod va boshqaruv",
+       "d": "organize"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi podkast yoki kanalni tinglaysan?",
+     "a": [
+      {
+       "t": "Insonlar munosabati va psixologiya haqida",
+       "d": "people"
+      },
+      {
+       "t": "Ekologiya va tabiat haqida",
+       "d": "nature"
+      },
+      {
+       "t": "Startap va tadbirkorlik haqida",
+       "d": "organize"
+      },
+      {
+       "t": "San’at va ijod haqida",
+       "d": "creative"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi hujjatli film senga qiziqroq?",
+     "a": [
+      {
+       "t": "Okean va yovvoyi tabiat haqida",
+       "d": "nature"
+      },
+      {
+       "t": "Sun’iy intellekt va robotlar haqida",
+       "d": "tech"
+      },
+      {
+       "t": "Mashhur me’mor va rassomlar haqida",
+       "d": "creative"
+      },
+      {
+       "t": "Buyuk ilmiy kashfiyotlar haqida",
+       "d": "science"
+      }
+     ]
+    },
+    {
+     "q": "Maktab tadbirida qaysi ishni o‘z zimmangga olasan?",
+     "a": [
+      {
+       "t": "Senariy va dizayn tayyorlash",
+       "d": "creative"
+      },
+      {
+       "t": "Ovoz va yoritish jihozlarini sozlash",
+       "d": "tech"
+      },
+      {
+       "t": "Tadbir o‘tadigan hovli yoki bog‘ni tayyorlash",
+       "d": "nature"
+      },
+      {
+       "t": "Byudjet va vazifalar rejasini tuzish",
+       "d": "organize"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi yangilik sen uchun qiziqroq?",
+     "a": [
+      {
+       "t": "Yangi davo usuli topilgani",
+       "d": "science"
+      },
+      {
+       "t": "Yangi ilova yoki qurilma chiqqani",
+       "d": "tech"
+      },
+      {
+       "t": "Yangi ekologik loyiha boshlangani",
+       "d": "nature"
+      },
+      {
+       "t": "Yoshlar uchun yangi ijtimoiy tashabbus",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Bo‘sh vaqtingda qaysi mashg‘ulot senga yoqadi?",
+     "a": [
+      {
+       "t": "Dasturlash yoki robot sinash",
+       "d": "tech"
+      },
+      {
+       "t": "Bog‘da ishlash yoki ekin o‘stirish",
+       "d": "nature"
+      },
+      {
+       "t": "Yozish, chizish yoki video montaj",
+       "d": "creative"
+      },
+      {
+       "t": "Ko‘ngillilik loyihasida qatnashish",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Sayohatda nimani ko‘rishni xohlaysan?",
+     "a": [
+      {
+       "t": "Tabiat qo‘riqxonasini",
+       "d": "nature"
+      },
+      {
+       "t": "Ilmiy laboratoriya yoki muzeyni",
+       "d": "science"
+      },
+      {
+       "t": "Katta zavod yoki texnoparkni",
+       "d": "tech"
+      },
+      {
+       "t": "Tarixiy me’moriy yodgorlikni",
+       "d": "creative"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi mavzudagi kitobni o‘qishni yoqtirasan?",
+     "a": [
+      {
+       "t": "Muvaffaqiyatli rahbarlar haqida",
+       "d": "organize"
+      },
+      {
+       "t": "Inson ruhiyati haqida",
+       "d": "people"
+      },
+      {
+       "t": "Ommabop ilmiy kitob",
+       "d": "science"
+      },
+      {
+       "t": "Tabiat va sayohatlar haqida",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Do‘stlaring sendan ko‘proq nima so‘raydi?",
+     "a": [
+      {
+       "t": "Pulni yoki vaqtni rejalash bo‘yicha maslahat",
+       "d": "organize"
+      },
+      {
+       "t": "Uy hayvoni yoki o‘simlik parvarishi bo‘yicha maslahatni",
+       "d": "nature"
+      },
+      {
+       "t": "Telefon yoki kompyuterni sozlashni",
+       "d": "tech"
+      },
+      {
+       "t": "Chiroyli surat yoki dizayn qilishni",
+       "d": "creative"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Kuchli tomonlarim",
+   "qs": [
+    {
+     "q": "Qaysi ishda o‘zingni kuchli his qilasan?",
+     "a": [
+      {
+       "t": "Muammoga mantiqiy yechim topishda",
+       "d": "science"
+      },
+      {
+       "t": "Jamoani boshqarishda",
+       "d": "organize"
+      },
+      {
+       "t": "Ochiq havoda, qiyin tabiiy sharoitda ish bajarishda",
+       "d": "nature"
+      },
+      {
+       "t": "Texnik nosozlikni topishda",
+       "d": "tech"
+      }
+     ]
+    },
+    {
+     "q": "O‘qituvchilar sendagi nimani qadrlaydi?",
+     "a": [
+      {
+       "t": "Tahliliy fikrlashingni",
+       "d": "science"
+      },
+      {
+       "t": "Ijodiy yondashuvingni",
+       "d": "creative"
+      },
+      {
+       "t": "Tashabbuskor va mas’uliyatli ekaningni",
+       "d": "organize"
+      },
+      {
+       "t": "Hamkorlik va hurmatingni",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi ko‘nikmani eng tez egallaysan?",
+     "a": [
+      {
+       "t": "Yangi dastur va ilovalarni",
+       "d": "tech"
+      },
+      {
+       "t": "Chet tillarini",
+       "d": "people"
+      },
+      {
+       "t": "Dizayn va video montajni",
+       "d": "creative"
+      },
+      {
+       "t": "O‘simlik va hayvon turlarini ajratishni",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Guruh loyihasida kuchli tomoning qaysi?",
+     "a": [
+      {
+       "t": "Ma’lumotni tahlil qilish",
+       "d": "science"
+      },
+      {
+       "t": "Taqdimotni jozibador qilish",
+       "d": "creative"
+      },
+      {
+       "t": "Dala kuzatuvini o‘tkazish",
+       "d": "nature"
+      },
+      {
+       "t": "Jamoa ruhini saqlash",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Qiyin vaziyatda nima qilasan?",
+     "a": [
+      {
+       "t": "Sovuqqonlik bilan sabablarini tahlil qilaman",
+       "d": "science"
+      },
+      {
+       "t": "Rejani qaytadan tuzaman",
+       "d": "organize"
+      },
+      {
+       "t": "Odamlarni tinchlantiraman",
+       "d": "people"
+      },
+      {
+       "t": "Mutlaqo yangi usul o‘ylab topaman",
+       "d": "creative"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi amaliy ishni yaxshi uddalaysan?",
+     "a": [
+      {
+       "t": "Elektron qurilma yig‘ishni",
+       "d": "tech"
+      },
+      {
+       "t": "Ekin yetishtirish yoki hayvon parvarishlashni",
+       "d": "nature"
+      },
+      {
+       "t": "Xarajatlar hisobini yuritishni",
+       "d": "organize"
+      },
+      {
+       "t": "Plakat yoki logotip chizishni",
+       "d": "creative"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi vazifa sendan tez bajariladi?",
+     "a": [
+      {
+       "t": "Formula va hisob-kitob",
+       "d": "science"
+      },
+      {
+       "t": "Matn yozish va taqdim etish",
+       "d": "creative"
+      },
+      {
+       "t": "Ochiq havoda kuzatuv o‘tkazish",
+       "d": "nature"
+      },
+      {
+       "t": "Ikki tomon o‘rtasida muzokara qilish",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi mahoratingga eng ishonasan?",
+     "a": [
+      {
+       "t": "Texnik chizma va sxemani tushunishga",
+       "d": "tech"
+      },
+      {
+       "t": "Boshqalarni rag‘batlantirishga",
+       "d": "organize"
+      },
+      {
+       "t": "Tinglab, tushunishga",
+       "d": "people"
+      },
+      {
+       "t": "Tajriba o‘tkazishga",
+       "d": "science"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi ishda sabr-toqating yetarli?",
+     "a": [
+      {
+       "t": "Uzoq davom etadigan tadqiqotda",
+       "d": "science"
+      },
+      {
+       "t": "Dasturdagi xatoni topishda",
+       "d": "tech"
+      },
+      {
+       "t": "Ekin yoki hayvonga muntazam g‘amxo‘rlik qilishda",
+       "d": "nature"
+      },
+      {
+       "t": "Katta tadbirning mayda ishlarida",
+       "d": "organize"
+      }
+     ]
+    },
+    {
+     "q": "Boshqalar senga nimaga qoyil qoladi?",
+     "a": [
+      {
+       "t": "Chizgan, yozgan yoki ijro etgan ishlaringga",
+       "d": "creative"
+      },
+      {
+       "t": "Ishni yaxshi tashkil qilishingga",
+       "d": "organize"
+      },
+      {
+       "t": "Texnik topqirligingga",
+       "d": "tech"
+      },
+      {
+       "t": "Mehribon muloqotingga",
+       "d": "people"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Ishlash uslubim",
+   "qs": [
+    {
+     "q": "Qaysi ish muhiti senga qulay?",
+     "a": [
+      {
+       "t": "Laboratoriya yoki tadqiqot markazi",
+       "d": "science"
+      },
+      {
+       "t": "Ochiq havo, dala yoki o‘rmon",
+       "d": "nature"
+      },
+      {
+       "t": "Ijodiy studiya",
+       "d": "creative"
+      },
+      {
+       "t": "Odamlar ko‘p joy: maktab, klinika yoki ofis",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Ishda nimani eng muhim deb bilasan?",
+     "a": [
+      {
+       "t": "Aniq reja va natija",
+       "d": "organize"
+      },
+      {
+       "t": "Yangi narsa yaratish",
+       "d": "creative"
+      },
+      {
+       "t": "Odamlarga foyda keltirish",
+       "d": "people"
+      },
+      {
+       "t": "Texnik jihatdan mukammallik",
+       "d": "tech"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi usulda ishlash senga yoqadi?",
+     "a": [
+      {
+       "t": "Kuzatib, tahlil qilib, xulosa chiqarib",
+       "d": "science"
+      },
+      {
+       "t": "Yasab yoki dasturlab, sinab ko‘rib",
+       "d": "tech"
+      },
+      {
+       "t": "Jamoani yo‘naltirib",
+       "d": "organize"
+      },
+      {
+       "t": "Tabiatda amaliy ishlab",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Mustaqil o‘rganishda qaysi usul senga qulay?",
+     "a": [
+      {
+       "t": "Onlayn kurs va amaliy mashq",
+       "d": "tech"
+      },
+      {
+       "t": "Kitob va maqolalar o‘qish",
+       "d": "science"
+      },
+      {
+       "t": "Videodars va ijodiy loyiha",
+       "d": "creative"
+      },
+      {
+       "t": "Ustoz bilan suhbat va maslahat",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Imtihonga qanday tayyorlanasan?",
+     "a": [
+      {
+       "t": "Jadval tuzib, bosqichma-bosqich",
+       "d": "organize"
+      },
+      {
+       "t": "Ko‘proq masala yechib",
+       "d": "science"
+      },
+      {
+       "t": "Do‘stlarga tushuntirib",
+       "d": "people"
+      },
+      {
+       "t": "Mavzuni sxema va rasmga aylantirib",
+       "d": "creative"
+      }
+     ]
+    },
+    {
+     "q": "Amaliyot tanlash imkoni bo‘lsa, qayerni tanlaysan?",
+     "a": [
+      {
+       "t": "Shifoxona yoki maktabni",
+       "d": "people"
+      },
+      {
+       "t": "Texnologiya kompaniyasini",
+       "d": "tech"
+      },
+      {
+       "t": "Fermer xo‘jaligi yoki ekologik markazni",
+       "d": "nature"
+      },
+      {
+       "t": "Yosh tadbirkorlik loyihasini",
+       "d": "organize"
+      }
+     ]
+    },
+    {
+     "q": "Ish tugagach, nimadan ko‘proq mamnun bo‘lasan?",
+     "a": [
+      {
+       "t": "Hammasi ishlab turganidan",
+       "d": "tech"
+      },
+      {
+       "t": "Yangi bilim olganingdan",
+       "d": "science"
+      },
+      {
+       "t": "Chiroyli chiqqanidan",
+       "d": "creative"
+      },
+      {
+       "t": "Kimgadir foyda tekkanidan",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Muddatli topshiriq kelsa, nima qilasan?",
+     "a": [
+      {
+       "t": "Vazifalarni ustuvorlik bo‘yicha taqsimlayman",
+       "d": "organize"
+      },
+      {
+       "t": "Sayr qilib, ruhan tinchlanib keyin boshlayman",
+       "d": "nature"
+      },
+      {
+       "t": "Avval ma’lumot yig‘ib, tahlil qilaman",
+       "d": "science"
+      },
+      {
+       "t": "G‘oyani tez eskiz qilib ko‘raman",
+       "d": "creative"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi rolni yoqtirasan?",
+     "a": [
+      {
+       "t": "Loyiha rahbari",
+       "d": "organize"
+      },
+      {
+       "t": "Ixtirochi yoki ishlab chiquvchi",
+       "d": "tech"
+      },
+      {
+       "t": "Tadqiqotchi",
+       "d": "science"
+      },
+      {
+       "t": "Maslahatchi yoki murabbiy",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi yutuq seni ko‘proq quvontiradi?",
+     "a": [
+      {
+       "t": "Ekologik loyihang natija berganidan",
+       "d": "nature"
+      },
+      {
+       "t": "Dizayning tanlovda yutganidan",
+       "d": "creative"
+      },
+      {
+       "t": "Startap g‘oyang sinovdan o‘tganidan",
+       "d": "organize"
+      },
+      {
+       "t": "Ilmiy ishing e’tirof etilganidan",
+       "d": "science"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Qadriyatlarim va orzularim",
+   "qs": [
+    {
+     "q": "Kelajakda asosiy maqsading qaysi?",
+     "a": [
+      {
+       "t": "Jamiyatga foyda keltirish",
+       "d": "people"
+      },
+      {
+       "t": "Yangi texnologiya yaratish",
+       "d": "tech"
+      },
+      {
+       "t": "O‘z ishingni boshlash",
+       "d": "organize"
+      },
+      {
+       "t": "Tabiatni asrash",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi qadriyat senga yaqinroq?",
+     "a": [
+      {
+       "t": "Bilim va haqiqat",
+       "d": "science"
+      },
+      {
+       "t": "Ijodiy erkinlik",
+       "d": "creative"
+      },
+      {
+       "t": "Mas’uliyat va intizom",
+       "d": "organize"
+      },
+      {
+       "t": "Mehr-oqibat",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "O‘n yildan keyin o‘zingni qayerda ko‘rasan?",
+     "a": [
+      {
+       "t": "Ilmiy markazda",
+       "d": "science"
+      },
+      {
+       "t": "Studiyada yoki sahnada",
+       "d": "creative"
+      },
+      {
+       "t": "Texnologiya kompaniyasida",
+       "d": "tech"
+      },
+      {
+       "t": "Ekologik yoki qishloq xo‘jaligi loyihasida",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi muammoni hal qilishni xohlaysan?",
+     "a": [
+      {
+       "t": "Kasalliklar va sog‘liq muammosini",
+       "d": "science"
+      },
+      {
+       "t": "Atrof-muhit ifloslanishini",
+       "d": "nature"
+      },
+      {
+       "t": "Yangi ish o‘rinlari yetishmasligini",
+       "d": "organize"
+      },
+      {
+       "t": "Yolg‘izlik va ijtimoiy yordam muammosini",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Qanday inson bo‘lishni xohlaysan?",
+     "a": [
+      {
+       "t": "Ilhom beruvchi ijodkor",
+       "d": "creative"
+      },
+      {
+       "t": "Ishonchli rahbar",
+       "d": "organize"
+      },
+      {
+       "t": "Mohir mutaxassis-ixtirochi",
+       "d": "tech"
+      },
+      {
+       "t": "Mehribon yordamchi",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi tashabbusni qo‘llab-quvvatlaysan?",
+     "a": [
+      {
+       "t": "Yoshlar uchun ilmiy-texnik markaz",
+       "d": "tech"
+      },
+      {
+       "t": "Tabiatni asrash aksiyasi",
+       "d": "nature"
+      },
+      {
+       "t": "Yosh tadbirkorlar klubi",
+       "d": "organize"
+      },
+      {
+       "t": "Bolalar uchun san’at studiyasi",
+       "d": "creative"
+      }
+     ]
+    },
+    {
+     "q": "Kasbda nimaga ko‘proq ahamiyat berasan?",
+     "a": [
+      {
+       "t": "Ijodiy erkinlikka",
+       "d": "creative"
+      },
+      {
+       "t": "Odamlarga foyda keltirishga",
+       "d": "people"
+      },
+      {
+       "t": "Yangi bilim olib turishga",
+       "d": "science"
+      },
+      {
+       "t": "Rahbarlik va o‘sishga",
+       "d": "organize"
+      }
+     ]
+    },
+    {
+     "q": "Qaysi e’tirof seni ko‘proq xursand qiladi?",
+     "a": [
+      {
+       "t": "Ilmiy konferensiyada ishtirok etish",
+       "d": "science"
+      },
+      {
+       "t": "Texnik tanlovda g‘olib bo‘lish",
+       "d": "tech"
+      },
+      {
+       "t": "Yilning eng yaxshi ko‘ngillisi bo‘lish",
+       "d": "people"
+      },
+      {
+       "t": "Eng yaxshi ekologik loyiha bo‘lish",
+       "d": "nature"
+      }
+     ]
+    },
+    {
+     "q": "Qanday jamoada ishlashni orzu qilasan?",
+     "a": [
+      {
+       "t": "Ilmiy guruhda",
+       "d": "science"
+      },
+      {
+       "t": "Ijodiy jamoada",
+       "d": "creative"
+      },
+      {
+       "t": "Qo‘riqxona yoki ekologik jamoada",
+       "d": "nature"
+      },
+      {
+       "t": "Tibbiyot yoki ta’lim jamoasida",
+       "d": "people"
+      }
+     ]
+    },
+    {
+     "q": "Maktabdan keyin qaysi yo‘nalishga ko‘proq qiziqasan?",
+     "a": [
+      {
+       "t": "Texnik yo‘nalishga",
+       "d": "tech"
+      },
+      {
+       "t": "Tabiatshunoslik yo‘nalishiga",
+       "d": "nature"
+      },
+      {
+       "t": "Ijodiy yo‘nalishga",
+       "d": "creative"
+      },
+      {
+       "t": "Pedagogika yoki ijtimoiy xizmat yo‘nalishiga",
+       "d": "people"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
